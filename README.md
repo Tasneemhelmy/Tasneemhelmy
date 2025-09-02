@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasneem</h1>
-- 🔭 I’m currently working on **E-commerce-Express**
+- 🔭I'm a senior at the Faculty of Computers and Informatics at Suez Canal University.
+ I’m a Backend developer NodeJs ,
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 📫 How to reach me **fs4191884@gmail.com**
